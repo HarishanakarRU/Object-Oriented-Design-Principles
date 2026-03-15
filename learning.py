@@ -25,3 +25,6 @@ my_car = Car("Mercedes", "ML350")
 # Call Method
 my_car.accelerate(20)
 my_car.display_status()
+
+# Enums
+
